@@ -38,7 +38,7 @@ python-dateutil==1.5
 python-documentcloud==0.154
 pytidylib==0.2.1
 reportlab==2.6
-requests==1.1.0
+requests==2.20.0
 simplejson==3.1.0
 six==1.4.1
 ssh==1.7.13
