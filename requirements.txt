@@ -2,7 +2,7 @@ newrelic
 Pillow
 xhtml2pdf==0.0.6
 Cheetah==2.4.4
-Django==1.4.8
+Django==1.11.29
 Fabric==1.4.0
 Markdown==2.1.1
 Paste==1.7.5.1
